@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: arquitecturahexagonal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Johan Diaz
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://spring.io/projects/spring-boot/arquitectur
+ ahexagonal
+Created-By: Maven Integration for Eclipse
+
